@@ -42,7 +42,4 @@
 🚧 JWT-based Authentication *(Coming soon)*  
 🚧 Payment integration *(Coming soon)*
 
----
-
-## 📁 Project Structure
 
